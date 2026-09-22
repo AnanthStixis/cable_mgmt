@@ -6,6 +6,7 @@ const NAV_ITEMS = [
   { to: '/', label: 'Dashboard', icon: '🏠' },
   { to: '/customers', label: 'Customers', icon: '👥' },
   { to: '/pending', label: 'Pending', icon: '⏳' },
+  { to: '/areas', label: 'Areas', icon: '📍' },
   { to: '/collectors', label: 'Collectors', icon: '🧑‍💼' },
 ]
 
